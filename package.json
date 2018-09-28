@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Akswii/discord_bot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord-yt-player": "^1.1.1",
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0",
+    "ytdl-core": "^0.26.0"
   }
 }
